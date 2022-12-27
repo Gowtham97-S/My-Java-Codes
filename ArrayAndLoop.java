@@ -16,9 +16,7 @@ public class ArrayAndLoop {
 	//System.out.println(a[1]);
 	
 	for(int i=0; i<a.length;i++) {
-		
-	
-						
+			
 			System.out.println(a[i]);
 		
 	}
