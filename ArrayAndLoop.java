@@ -28,7 +28,7 @@ public class ArrayAndLoop {
 	arys[0]=20;
 	arys[1]=30;
 	arys[2]= 40;
-	for (int j=0; j< arys.length ; j++ ) {
+	for (int j=0; j< arys.length ; j++ ) {//Array looping concepts
 		
 		  System.out.println(arys[j]);
 	}

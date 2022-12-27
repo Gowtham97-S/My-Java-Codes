@@ -8,8 +8,8 @@ public class ArrayStatement {
 	
 	System.out.println(A[2]);
 	
-	
-	int arys[]= new int[4];
+	int arys[]= new int[4]; //Normal Array
+
 	 arys[0]=10;
 	 arys[1]=20;
 	System.out.println(arys[1]);
